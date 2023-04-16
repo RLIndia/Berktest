@@ -158,7 +158,7 @@ GEM
       coderay (~> 1.0)
       method_source (~> 0.8)
       slop (~> 3.4)
-    rack (1.5.2)
+    rack (3.0.7)
     rainbow (2.0.0)
     rake (10.3.1)
     rb-fsevent (0.9.4)
